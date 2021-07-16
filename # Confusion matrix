@@ -1,0 +1,20 @@
+# Confusion matrix is a metrics to Evaluate Classification Problem  
+
+# Confusion Matrix 
+	Predicted 
+Act	TP   FN
+	FP	 TN
+
+FP - Type 1 Error
+FN - Type 2 Error 
+
+
+Example : Whether a Person has Disease or Not 
+
+So in this case we should reduce FN: Becase It Predicted Wrong If a patient has disease it predicted You dont have any Disease So in this case You should Try to Reduce Your False Negative.
+
+
+Precision : To see FP
+Recall : To see FN
+F : For both 
+
