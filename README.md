@@ -10,4 +10,4 @@
 - chebyshev's inequality
 - Correlation Bw Variable
 - Confusion Matrix (Theory with Example)
-- Hypothesis Test : Normality,Correlation (Non-parametric,parametric)
+- Hypothesis Test : Normality,Correlation,Comparing Sample Mean (Non-parametric,parametric)
